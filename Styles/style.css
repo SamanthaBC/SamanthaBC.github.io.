@@ -68,6 +68,11 @@ a:hover {
 footer  {font-size: small;}
 
 .column {
-    float:right;
-    width:50%;  
+    float:left;
+    width:50%; 
+    padding: 15px
 }
+
+@media screen and (max-width:600px) {}
+    .column {
+        width: 100%;}
