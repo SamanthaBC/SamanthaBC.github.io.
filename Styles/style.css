@@ -1,37 +1,37 @@
-h1 {   
-    background-color: powderblue;   
+h1 {
+    background-color: powderblue;
     color: rgb(105, 140, 145);
-    text-align: center;   
+    text-align: center;
     padding: 20px;
     font-family: fantasy;
     }
 
-h2 {    
-    color: rgb(131, 84, 131); 
-    text-align: center;   
+h2 {
+    color: rgb(131, 84, 131);
+    text-align: center;
     padding: 20px;
     font-family: 'Courier New', Courier, monospace;
     }
 
-h3 {   
-    color: rgb(94, 81, 94);   
-    text-align: center;   
+h3 {
+    color: rgb(94, 81, 94);
+    text-align: center;
     padding: 20px;
     font-family: fantasy;
     }
 .bold {
 
-    background-color: thistle;  
-    color: rgb(94, 81, 94); 
-    text-align: center;   
+    background-color: thistle;
+    color: rgb(94, 81, 94);
+    text-align: center;
     padding: 20px;
     font-family: 'Courier New', Courier, monospace;
 }
 
-    h4 {  
-         background-color: rgba(208, 228, 208, 0.973);  
-         color: rgb(105, 136, 105);   
-         text-align: center;   
+    h4 {
+         background-color: rgba(208, 228, 208, 0.973);
+         color: rgb(105, 136, 105);
+         text-align: center;
          padding: 20px;
          font-family: 'Courier New', Courier, monospace;
          font-size: medium;
@@ -42,17 +42,15 @@ p {
      text-align: center;
      color: black;
      font-family: Verdana, Geneva, Tahoma, sans-serif;
-     
     }
 
 .left {
     text-align: left;
      font-size: large;
-     
     }
 
 .colour {
-         color: rgb(131, 84, 131); 
+         color: rgb(131, 84, 131);
         }
 
 
@@ -69,7 +67,7 @@ footer  {font-size: small;}
 
 .column {
     float:left;
-    width:50%; 
+    width:50%;
     padding: 15px
 }
 
