@@ -1,0 +1,6 @@
+<!DOCTYPE .htaccess>
+
+AuthType Basic
+AuthName "Staff Only"
+AuthUserFile "/app/.htpasswd"
+Require staff:a.0u.7qoj6L3g
